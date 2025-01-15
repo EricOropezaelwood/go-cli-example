@@ -20,5 +20,5 @@ Mac M1
 - If after running go install the cli is not found, add the following to bash_profile or zshrc or wherever Path is updated:  
 
 ```
-export PATH=$PATH:/Users/donquixote/go/bin
+export PATH=$PATH:/Users/someuser/go/bin
 ```
